@@ -1,0 +1,20 @@
+/*constantes de diseño*/
+:root {
+    --colorfooter:#f3ae47;
+    --fuente: 'Oswald', sans-serif;
+}
+
+.logo {
+    width: 165px;
+    height: 140px;
+
+}
+
+.menu {
+    background-color: #FAB327 !important;
+
+}
+
+.alto {
+    height: 650px;
+}
