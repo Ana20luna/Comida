@@ -4,6 +4,9 @@
     --fuente: 'Oswald', sans-serif;
 }
 
+body{
+    overflow-x: hidden;/*oculta la barra horizontal*/
+}
 .logo {
     width: 165px;
     height: 140px;
@@ -17,4 +20,11 @@
 
 .alto {
     height: 650px;
+}
+
+/*imagenes para la carta*/
+
+.card-img-top{
+    width: 100% ;
+    height:300% ;
 }
